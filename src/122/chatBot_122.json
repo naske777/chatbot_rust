@@ -1,0 +1,172 @@
+[
+    {
+        "tag": "saludo",
+        "patterns": [
+            "Hola",
+            "Buenos días",
+            "¿Cómo estás?"
+        ],
+        "responses": [
+            "¡Hola! ¿En qué puedo asistirte hoy?",
+            "¡Buenos días! ¿Necesitas ayuda con algo en particular?",
+            "Estoy aquí para ayudarte. ¿Cómo puedo asistirte?"
+        ]
+    },
+    {
+        "tag": "despedida",
+        "patterns": [
+            "Adiós",
+            "Hasta luego",
+            "Nos vemos luego"
+        ],
+        "responses": [
+            "¡Adiós! Que tengas un excelente día.",
+            "¡Hasta luego! No dudes en volver si necesitas más ayuda.",
+            "Nos vemos pronto. ¡Espero haberte sido útil!"
+        ]
+    },
+    {
+        "tag": "ayuda",
+        "patterns": [
+            "Necesito ayuda",
+            "Puedes ayudarme",
+            "Quiero que me ayudes",
+            "¿Podrías ayudarme?",
+            "¿Podrías aconsejarme?",
+            "¿Podrías darme un consejo?",
+            "Dame un consejo"
+        ],
+        "responses": [
+            "¡Claro! ¿Qué tipo de asistencia necesitas?",
+            "¡Sí, por supuesto! ¿En qué puedo orientarte?",
+            "¡Sí! ¿Tienes alguna consulta específica?",
+            "¡Sí! Cuéntame tus preferencias y te ayudaré.",
+            "¡Por supuesto! ¿En qué área necesitas consejo?",
+            "¡Por supuesto! Estoy aquí para brindarte la mejor orientación posible.",
+            "¡Por supuesto! Dime más sobre lo que buscas y te asesoraré."
+        ]
+    },
+    {
+        "tag": "soporte_técnico",
+        "patterns": [
+            "Necesito ayuda con el sistema",
+            "¿Cómo puedo utilizar el sistema correctamente?",
+            "¿Pueden proporcionarme soporte técnico?",
+            "¿Cómo me capacito en el uso del sistema?",
+            "Quiero aprender a usar el sistema",
+            "Necesito capacitación para maximizar el uso del sistema"
+        ],
+        "responses": [
+            "Claro, estoy aquí para guiarte en el uso del sistema. ¿Qué necesitas saber?",
+            "Para asegurarte de que aprovechas todas las funciones, ofrecemos tutoriales y guías. ¿Te gustaría más información?",
+            "Ofrecemos soporte técnico para ayudarte a navegar el sistema. ¿Con qué estás teniendo dificultades?",
+            "Puedes aprender a usar el sistema mediante nuestras guías interactivas. ¿Te gustaría ver una?",
+            "Nuestra sección de ayuda está disponible para maximizar tu experiencia. ¿Te envío algunos recursos?",
+            "Si tienes dudas, nuestro equipo de soporte técnico está aquí para ayudarte a resolverlas."
+        ]
+    },
+    {
+        "tag": "comunicarse_con_operador",
+        "patterns": [
+            "Quiero hablar con un operador",
+            "Necesito comunicarme con un representante",
+            "¿Puedo hablar con una persona?",
+            "Quiero hablar con soporte humano",
+            "Necesito asistencia de un operador",
+            "¿Cómo puedo comunicarme con un operador?"
+        ],
+        "responses": [
+            "Por supuesto, te transferiré con uno de nuestros agentes.",
+            "Claro, un momento por favor, te conectaré con un representante especializado.",
+            "Entiendo, te pondré en contacto con uno de nuestros agentes.",
+            "Voy a transferirte con un miembro de nuestro equipo de soporte.",
+            "Un momento por favor, te comunicaré con un experto.",
+            "Voy a transferirte con un operador que podrá asistirte mejor."
+        ]
+    },
+    {
+        "tag": "toma_decisiones",
+        "patterns": [
+            "Ayuda para tomar decisiones",
+            "Recomendaciones para decisiones de negocio",
+            "Necesito apoyo en la toma de decisiones",
+            "¿Cómo puedo mejorar mis decisiones empresariales?",
+            "Quiero reducir los riesgos en mis decisiones"
+        ],
+        "responses": [
+            "El asistente está diseñado para analizar datos y ofrecer recomendaciones informadas. ¿En qué área de tu negocio necesitas ayuda?",
+            "Podemos ayudarte a tomar decisiones basadas en datos. ¿Qué tipo de decisiones estás enfrentando?",
+            "Nuestro objetivo es minimizar los riesgos mediante recomendaciones estratégicas. ¿Te gustaría ver cómo?",
+            "Te ayudaré a tomar decisiones más precisas basadas en datos. ¿Cuál es tu situación actual?",
+            "Reducir riesgos y mejorar la precisión es parte del proceso de este asistente. ¿Tienes un escenario específico en mente?"
+        ]
+    },
+    {
+        "tag": "analisis_datos",
+        "patterns": [
+            "Análisis de datos",
+            "Necesito ayuda con el análisis de datos",
+            "¿Cómo puedo analizar grandes cantidades de datos?",
+            "¿Cómo puedo interpretar los datos de mi negocio?",
+            "Quiero insights a partir de datos"
+        ],
+        "responses": [
+            "El asistente puede analizar grandes cantidades de datos y generar insights valiosos para tu negocio. ¿Qué datos te gustaría analizar?",
+            "Podemos ayudarte a interpretar tus datos de manera efectiva. ¿Qué información necesitas?",
+            "El análisis de datos es clave para tomar mejores decisiones. ¿Qué datos estás revisando actualmente?",
+            "Podemos identificar patrones en tus datos para ofrecerte recomendaciones. ¿En qué área te interesa profundizar?",
+            "Aprovecha el análisis de datos para mejorar tu competitividad. ¿Qué información necesitas interpretar?"
+        ]
+    },
+    {
+        "tag": "innovacion",
+        "patterns": [
+            "Quiero innovar en mi negocio",
+            "¿Cómo puedo ser más competitivo?",
+            "Ayuda para aumentar la innovación",
+            "¿Cómo mejoro la innovación?",
+            "Mejorar la innovación en mi empresa"
+        ],
+        "responses": [
+            "El asistente puede ayudarte a identificar oportunidades de innovación. ¿Te gustaría explorar algunas áreas clave?",
+            "La innovación es crucial para la competitividad. ¿Tienes algún proyecto o idea en mente?",
+            "Podemos sugerirte estrategias para aumentar la innovación y mejorar tu negocio. ¿Quieres más detalles?",
+            "La plataforma ayuda a las empresas a ser más competitivas mediante recomendaciones informadas. ¿Te interesa alguna en particular?",
+            "¿Te gustaría implementar estrategias innovadoras basadas en datos? Cuéntame más sobre tu negocio."
+        ]
+    },
+    {
+        "tag": "colaboracion_comunicacion",
+        "patterns": [
+            "Mejorar la comunicación en mi equipo",
+            "Quiero mejorar la colaboración entre departamentos",
+            "¿Cómo puedo fomentar la colaboración?",
+            "Necesito mejorar la comunicación en mi empresa",
+            "Quiero fomentar la colaboración efectiva"
+        ],
+        "responses": [
+            "La plataforma puede ayudarte a mejorar la comunicación y colaboración entre equipos. ¿Te gustaría conocer algunas herramientas?",
+            "Fomentar la colaboración efectiva es clave para el éxito. ¿En qué áreas de tu empresa necesitas apoyo?",
+            "Podemos proporcionarte recursos para mejorar la comunicación interna. ¿Te gustaría recibir algunas recomendaciones?",
+            "La colaboración efectiva impulsa la innovación. ¿Cómo podemos ayudarte a mejorarla en tu empresa?",
+            "Nuestra plataforma está diseñada para optimizar la comunicación entre departamentos. ¿Qué desafíos estás enfrentando actualmente?"
+        ]
+    },
+    {
+        "tag": "reduccion_costos",
+        "patterns": [
+            "Quiero reducir los costos en mi negocio",
+            "¿Cómo puedo reducir los costos?",
+            "Reducir costos y mejorar eficiencia",
+            "¿Cómo puedo reducir gastos?",
+            "Ayuda para reducir costos operativos"
+        ],
+        "responses": [
+            "El asistente puede identificar áreas para reducir costos sin comprometer la calidad. ¿En qué área necesitas ayuda?",
+            "Reducir costos es clave para mantener la competitividad. ¿Te gustaría ver algunas recomendaciones?",
+            "Podemos ayudarte a optimizar tus procesos para reducir costos. ¿Tienes alguna meta específica?",
+            "Reducir gastos y mejorar la eficiencia es uno de los objetivos de la plataforma. ¿Qué áreas te interesan?",
+            "Te ayudaremos a reducir los costos operativos mediante decisiones más informadas. ¿Tienes datos que quieres analizar?"
+        ]
+    }
+]

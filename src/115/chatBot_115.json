@@ -1,0 +1,107 @@
+[
+    {
+        "tag": "saludo",
+        "patterns": [
+          "Hola",
+          "Buenos días",
+          "¿Cómo estás?"
+        ],
+        "responses": [
+          "¡Hola! ¿En qué puedo asistirte hoy?",
+          "¡Buenos días! ¿Necesitas ayuda con algo en particular?",
+          "Estoy aquí para ayudarte. ¿Cómo puedo asistirte?"
+        ]
+      },
+      {
+        "tag": "despedida",
+        "patterns": [
+          "Adiós",
+          "Hasta luego",
+          "Nos vemos luego"
+        ],
+        "responses": [
+          "¡Adiós! Que tengas un excelente día.",
+          "¡Hasta luego! No dudes en volver si necesitas más ayuda.",
+          "Nos vemos pronto. ¡Espero haberte sido útil!"
+        ]
+      },
+      {
+        "tag": "ayuda",
+        "patterns": [
+          "Necesito ayuda",
+          "Puedes ayudarme",
+          "Quiero que me ayudes",
+          "¿Podrías ayudarme?",
+          "¿Podrías aconsejarme?",
+          "¿Podrías darme un consejo?",
+          "Dame un consejo"
+        ],
+        "responses": [
+          "¡Claro! ¿Qué tipo de asistencia necesitas?",
+          "¡Sí, por supuesto! ¿En qué puedo orientarte?",
+          "¡Sí! ¿Tienes alguna consulta específica?",
+          "¡Sí! Cuéntame tus preferencias y te ayudaré.",
+          "¡Por supuesto! ¿En qué área necesitas consejo?",
+          "¡Por supuesto! Estoy aquí para brindarte la mejor orientación posible.",
+          "¡Por supuesto! Dime más sobre lo que buscas y te asesoraré."
+        ]
+      },
+      {
+        "tag": "soporte_técnico",
+        "patterns": [
+          "Necesito ayuda con el sistema",
+          "¿Cómo puedo utilizar el sistema correctamente?",
+          "¿Pueden proporcionarme soporte técnico?",
+          "¿Cómo me capacito en el uso del sistema?",
+          "Quiero aprender a usar el sistema",
+          "Necesito capacitación para maximizar el uso del sistema"
+        ],
+        "responses": [
+          "Claro, estoy aquí para guiarte en el uso del sistema. ¿Qué necesitas saber?",
+          "Para asegurarte de que aprovechas todas las funciones, ofrecemos tutoriales y guías. ¿Te gustaría más información?",
+          "Ofrecemos soporte técnico para ayudarte a navegar el sistema. ¿Con qué estás teniendo dificultades?",
+          "Puedes aprender a usar el sistema mediante nuestras guías interactivas. ¿Te gustaría ver una?",
+          "Nuestra sección de ayuda está disponible para maximizar tu experiencia. ¿Te envío algunos recursos?",
+          "Si tienes dudas, nuestro equipo de soporte técnico está aquí para ayudarte a resolverlas."
+        ]
+      },
+      {
+        "tag": "comunicarse_con_operador",
+        "patterns": [
+          "Quiero hablar con un operador",
+          "Necesito comunicarme con un representante",
+          "¿Puedo hablar con una persona?",
+          "Quiero hablar con soporte humano",
+          "Necesito asistencia de un operador",
+          "¿Cómo puedo comunicarme con un operador?"
+        ],
+        "responses": [
+          "Por supuesto, te transferiré con uno de nuestros agentes.",
+          "Claro, un momento por favor, te conectaré con un representante especializado.",
+          "Entiendo, te pondré en contacto con uno de nuestros agentes.",
+          "Voy a transferirte con un miembro de nuestro equipo de soporte.",
+          "Un momento por favor, te comunicaré con un experto.",
+          "Voy a transferirte con un operador que podrá asistirte mejor."
+        ]
+      },
+      {
+        "tag": "problemas_con_la_app",
+        "patterns": [
+          "La aplicación no funciona",
+          "Tengo problemas con la app",
+          "La app se cierra sola",
+          "No puedo abrir la aplicación",
+          "La app no responde",
+          "La aplicación se congela",
+          "Tengo un error en la aplicación"
+        ],
+        "responses": [
+          "Te sugiero reiniciar la aplicación y asegurarte de que esté actualizada a la última versión.",
+          "Si la aplicación se cierra o no responde, intenta desinstalarla y volver a instalarla.",
+          "Verifica que tu dispositivo cumpla con los requisitos de la app y que tengas suficiente espacio de almacenamiento.",
+          "Si el problema persiste, puedes borrar la caché de la aplicación desde los ajustes de tu dispositivo.",
+          "Para errores constantes, por favor contacta con nuestro equipo de soporte técnico para obtener asistencia adicional."
+        ]
+      }
+      
+]
